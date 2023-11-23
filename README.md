@@ -1,0 +1,1 @@
+# javascrpit-start-end-with-all
